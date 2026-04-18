@@ -32,6 +32,11 @@ for (int i = 0; i < 10; i++)
     b = c;
 ```
 
+$2x + 3y = 18
+$4x + 1y = 16
+$x = ?
+$y = ?
+
 __double underscore__
 
 **bold**

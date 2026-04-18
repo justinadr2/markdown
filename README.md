@@ -1,16 +1,6 @@
 
+# Header 1
 
----
-name: justin
-profession: >
-    hardware research
-    sofware reversing
----
+## Header 2
 
-## what `theactual()` fuck
-
-## `print("fuck you")`
-
-`print("bitch")`
-
-**unknown style**
+### Header 3

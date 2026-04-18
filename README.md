@@ -36,7 +36,7 @@ $ 2x + 3y = 18
 $ 4x + 1y = 16
 
 
-__double underscore__
+__dunder__
 
 **bold**
 
@@ -46,4 +46,14 @@ __double underscore__
 - a
 - list
 
+1. this
+2. is
+3. an
+4. ordered
+5. list
 
+- [x] this
+- [] is
+- [x] a
+- [] check
+- [x] list

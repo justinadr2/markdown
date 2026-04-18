@@ -32,13 +32,18 @@ for (int i = 0; i < 10; i++)
     b = c;
 ```
 
-$$
-2x + 3y = 18
-$$
-$$
-4x + 1y = 16
-$$
+$ 2x + 3y = 18
+$ 4x + 1y = 16
+
 
 __double underscore__
 
 **bold**
+
+
+- this
+- is
+- a
+- list
+
+

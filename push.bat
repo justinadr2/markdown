@@ -1,4 +1,4 @@
-
+@echo off
 git add .
-git commit -m "fuck you"
+git commit -m "%*"
 git push

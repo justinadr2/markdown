@@ -21,6 +21,17 @@ for i in range(10):
     b = c
 ```
 
+```c
+int a = 0;
+int b = 1;
+for (int i = 0; i < 10; i++)
+{
+    printf("%i ", a);
+    int c = a + b;
+    a = b;
+    b = c;
+```
+
 __double underscore__
 
 **bold**

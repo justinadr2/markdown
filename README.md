@@ -16,3 +16,5 @@ unknown style
 ```
 
 __double underscore__
+
+**bold**

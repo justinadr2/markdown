@@ -1,5 +1,3 @@
-
-
 ---
 name: justin
 profession: >
@@ -7,5 +5,7 @@ profession: >
     sofware reversing
 ---
 
-# what
-## the fck
+## what `theactual()` fuck
+
+
+

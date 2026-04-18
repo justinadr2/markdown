@@ -5,11 +5,12 @@
 
 ### Header 3
 
+```json
 {
     "name": "justin",
     "profession" : ["hardware research", "software reversing", "neural net programming"]  
 }
-
+```
 
 ```python
 a = 0

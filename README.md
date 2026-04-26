@@ -8,7 +8,12 @@
 ```json
 {
     "name": "justin",
-    "profession" : ["hardware research", "software reversing", "neural net programming"]  
+    "profession" : ["hardware research", "software reversing", "neural net programming"],
+    "location": {
+        "planet": "earth",
+        "galaxy": "milky way",
+        "universe": "observable"
+    }
 }
 ```
 
@@ -31,6 +36,7 @@ for (int i = 0; i < 10; i++)
     int c = a + b;
     a = b;
     b = c;
+}
 ```
 
 $$
@@ -55,3 +61,5 @@ __dunder__
 
 > Anything with a processor is hackable
 
+
+[This a link?](https://example.com)

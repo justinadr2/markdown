@@ -65,7 +65,7 @@ __dunder__
 [This a link?](https://example.com)
 
 
-Go to [Wikipedia](1) or [YouTube](2)
+Go to [Wikipedia][1] or [YouTube][2]
 
 [1]: https://wikipedia.com
 [2]: https://youtube.com

@@ -55,7 +55,12 @@ $4x + 1y = 16$
 
 
 
-$$\Large\begin{align}x + y & = 5 \\ 2x - y & = 1\end{align}$$
+$$\Large
+\begin{align}
+x + y &= 5 \\ 
+2x - y &= 1
+\end{align}
+$$
 
 $$\Large C_{ij} = \sum_{k=1}^{n} A_{ik}B_{kj}$$
 

@@ -8,7 +8,7 @@
 ```json
 {
     "name": "justin",
-    "profession" : ["hardware research", "software reversing", "neural net programming"],
+    "likes" : ["hardware research", "reverse engineering", "deep learning"],
     "location": {
         "planet": "earth",
         "galaxy": "milky way",
@@ -18,57 +18,44 @@
 ```
 
 ```python
-a = 0
-b = 1
-for i in range(10):
-    print(a)
-    c = a + b
-    a = b
-    b = c
-```
+class Node:
+    def __init__(self, val, next)
+        self.val = val
+        self.next = next
 
-```c
-int a = 0;
-int b = 1;
-for (int i = 0; i < 10; i++)
-{
-    printf("%i ", a);
-    int c = a + b;
-    a = b;
-    b = c;
-}
-```
+class Stack:
+    def __init__(self, n):
+        self.top = None
+        for x in n:
+            self.push(x)
 
+    def push(self, val):
+        n = Node(val, self.top)
+        self.top = n
+
+    def pop(self)
+        out = self.top.val
+        self.top = self.top.next
+
+    def print(self):
+        print(f"{self.top.val} <- top")
+        curr = self.top.next
+        while (curr):
+            print(f"{curr.val}")
+            curr = curr.next
+
+
+n = [ 10, 20, 30, 40, 50 ]
+s = Stack(n)
+s.print()
+
+```
 $$
 2x + 3y = 18 
-$$
-
-$$
 4x + 1y = 16
 $$
 
-__dunder__
 
-**bold**
-
-### **bold head**
-
-
-- this
-- is
-- a
-- list
-
-> Anything with a processor is hackable
-
-
-[This a link?](https://example.com)
-
-
-## Go to [Wikipedia][1] or [YouTube][2]
-
-[1]: https://wikipedia.com
-[2]: https://youtube.com
 
 
 $$\Large C_{ij} = \sum_{k=1}^{n} A_{ik}B_{kj}$$

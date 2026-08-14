@@ -69,3 +69,6 @@ $$\Large C_{ij} = \sum_{k=1}^{n} A_{ik}B_{kj}$$
 <mark>this is highlighted text</mark>
 
 
+$\huge\boxed{\text{this is the Computer Modern font}}$
+
+
